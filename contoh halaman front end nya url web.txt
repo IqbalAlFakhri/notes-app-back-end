@@ -1,0 +1,8 @@
+link webnya
+
+http://notesapp-v1.dicodingacademy.com/
+
+kalo error jangan lupa edit bagian chrome://flags bagian Block insecure private network requests.
+ubah dari default ke disable
+
+kalo udehan jangan lupa di ubah ke default lagi biar aman
